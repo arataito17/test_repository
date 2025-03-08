@@ -165,4 +165,3 @@ Results for: Beyond Visual Perception: Insights from Smartphone Interaction of V
 Title: Beyond Visual Perception: Insights from Smartphone Interaction of Visually Impaired Users with Large Multimodal Models
 Link: https://arxiv.org/abs/2502.16098
 ----------------------------------------
-a
