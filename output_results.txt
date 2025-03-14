@@ -123,8 +123,8 @@ Results for: VisiMark: Characterizing and Augmenting Landmarks for People with L
 Title: VisiMark: Characterizing and Augmenting Landmarks for People with Low Vision in Augmented Reality to Support Indoor Navigation
 Link: https://arxiv.org/abs/2502.10561
 ----------------------------------------
-Results for: Weaving Sound Information to Support Real-time Sensemaking of Auditory Environments: Co-designing with a DHH User
-No results found for: Weaving Sound Information to Support Real-time Sensemaking of Auditory Environments: Co-designing with a DHH User
+Results for: Weaving Sound Information to Support Real-Time Sensemaking of Auditory Environments: Co-Designing with a DHH User
+No results found for: Weaving Sound Information to Support Real-Time Sensemaking of Auditory Environments: Co-Designing with a DHH User
 ----------------------------------------
 Results for: OnomaCap: Making Non-speech Sound Captions Accessible and Enjoyable through Onomatopoeic Sound Representation
 No results found for: OnomaCap: Making Non-speech Sound Captions Accessible and Enjoyable through Onomatopoeic Sound Representation
