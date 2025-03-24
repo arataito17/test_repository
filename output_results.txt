@@ -85,7 +85,8 @@ Title: The Dilemma of Building Do-It-Yourself (DIY) Solutions for Workplace Acce
 Link: https://arxiv.org/abs/2501.18148
 ----------------------------------------
 Results for: The Impact of Generative AI Coding Assistants on Developers Who Are Visually Impaired
-No results found for: The Impact of Generative AI Coding Assistants on Developers Who Are Visually Impaired
+Title: The Impact of Generative AI Coding Assistants on Developers Who Are Visually Impaired
+Link: https://arxiv.org/abs/2503.16491
 ----------------------------------------
 Results for: Toward Language Justice: Exploring Multilingual Captioning for Accessibility
 No results found for: Toward Language Justice: Exploring Multilingual Captioning for Accessibility
