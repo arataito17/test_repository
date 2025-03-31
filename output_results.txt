@@ -1,9 +1,6 @@
 Results for: Acceptability, Acceptance and Adoption of Telepresence Robots in Museums: The Museum Professionals' Perspectives
 No results found for: Acceptability, Acceptance and Adoption of Telepresence Robots in Museums: The Museum Professionals' Perspectives
 ----------------------------------------
-Results for: Accessibility for Whom? Perceptions of Mobility Barriers Across Disability Groups and Implications for Designing Personalized Maps
-No results found for: Accessibility for Whom? Perceptions of Mobility Barriers Across Disability Groups and Implications for Designing Personalized Maps
-----------------------------------------
 Results for: Asleep at the Virtual Wheel: The Increasing Inaccessibility of Virtual Reality Applications
 No results found for: Asleep at the Virtual Wheel: The Increasing Inaccessibility of Virtual Reality Applications
 ----------------------------------------
@@ -18,17 +15,12 @@ Results for: DanmuA11y: Making Time-Synced On-Screen Video Comments (Danmu) Acce
 Title: DanmuA11y: Making Time-Synced On-Screen Video Comments (Danmu) Accessible to Blind and Low Vision Users via Multi-Viewer Audio Discussions
 Link: https://arxiv.org/abs/2501.15711
 ----------------------------------------
-Results for: Designing Accessible Audio Nudges for Voice Interfaces
-No results found for: Designing Accessible Audio Nudges for Voice Interfaces
-----------------------------------------
 Results for: Designing and Evaluating a VR Boxing Experience with Blind People
 No results found for: Designing and Evaluating a VR Boxing Experience with Blind People
 ----------------------------------------
 Results for: Beyond Omakase: Designing Shared Control for Navigation Robots with Blind People
-No results found for: Beyond Omakase: Designing Shared Control for Navigation Robots with Blind People
-----------------------------------------
-Results for: Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions
-No results found for: Envisioning Financial Technology Support for Older Adults Through Cognitive and Life Transitions
+Title: Beyond Omakase: Designing Shared Control for Navigation Robots with Blind People
+Link: https://arxiv.org/abs/2503.21997
 ----------------------------------------
 Results for: Exploring Deaf And Hard of Hearing Peoples’ Perspectives On Tasks In Augmented Reality: Interacting With 3D Objects And Instructional Comprehension
 No results found for: Exploring Deaf And Hard of Hearing Peoples’ Perspectives On Tasks In Augmented Reality: Interacting With 3D Objects And Instructional Comprehension
@@ -92,7 +84,8 @@ Results for: Toward Language Justice: Exploring Multilingual Captioning for Acce
 No results found for: Toward Language Justice: Exploring Multilingual Captioning for Accessibility
 ----------------------------------------
 Results for: Towards More Accessible Scientific PDFs for People with Visual Impairments: Step-by-Step PDF Remediation to Improve Tag Accuracy
-No results found for: Towards More Accessible Scientific PDFs for People with Visual Impairments: Step-by-Step PDF Remediation to Improve Tag Accuracy
+Title: Towards More Accessible Scientific PDFs for People with Visual Impairments: Step-by-Step PDF Remediation to Improve Tag Accuracy
+Link: https://arxiv.org/abs/2503.22216
 ----------------------------------------
 Results for: Towards Neuroqueer Spatial Justice: A Critical Literature Review of Public Space Technologies for Neurodivergent Populations
 No results found for: Towards Neuroqueer Spatial Justice: A Critical Literature Review of Public Space Technologies for Neurodivergent Populations
