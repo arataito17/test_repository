@@ -1,165 +1,150 @@
-Results for: Acceptability, Acceptance and Adoption of Telepresence Robots in Museums: The Museum Professionals' Perspectives
-No results found for: Acceptability, Acceptance and Adoption of Telepresence Robots in Museums: The Museum Professionals' Perspectives
-----------------------------------------
-Results for: Asleep at the Virtual Wheel: The Increasing Inaccessibility of Virtual Reality Applications
-No results found for: Asleep at the Virtual Wheel: The Increasing Inaccessibility of Virtual Reality Applications
-----------------------------------------
-Results for: CodeA11y: Making AI Coding Assistants Useful for Accessible Web Development
-Title: CodeA11y: Making AI Coding Assistants Useful for Accessible Web Development
-Link: https://arxiv.org/abs/2502.10884
-----------------------------------------
-Results for: CompAct: Designing Interconnected Compliant Mechanisms with Targeted Actuation Transmissions
-No results found for: CompAct: Designing Interconnected Compliant Mechanisms with Targeted Actuation Transmissions
-----------------------------------------
-Results for: DanmuA11y: Making Time-Synced On-Screen Video Comments (Danmu) Accessible to Blind and Low Vision Users via Multi-Viewer Audio Discussions
-Title: DanmuA11y: Making Time-Synced On-Screen Video Comments (Danmu) Accessible to Blind and Low Vision Users via Multi-Viewer Audio Discussions
-Link: https://arxiv.org/abs/2501.15711
-----------------------------------------
-Results for: Designing and Evaluating a VR Boxing Experience with Blind People
-No results found for: Designing and Evaluating a VR Boxing Experience with Blind People
-----------------------------------------
-Results for: Beyond Omakase: Designing Shared Control for Navigation Robots with Blind People
-Title: Beyond Omakase: Designing Shared Control for Navigation Robots with Blind People
-Link: https://arxiv.org/abs/2503.21997
-----------------------------------------
-Results for: Exploring Deaf And Hard of Hearing Peoples’ Perspectives On Tasks In Augmented Reality: Interacting With 3D Objects And Instructional Comprehension
-No results found for: Exploring Deaf And Hard of Hearing Peoples’ Perspectives On Tasks In Augmented Reality: Interacting With 3D Objects And Instructional Comprehension
-----------------------------------------
-Results for: Exploring the Experiences of Individuals Who are Blind or Low-Vision Using Object-Recognition Technologies in India
-No results found for: Exploring the Experiences of Individuals Who are Blind or Low-Vision Using Object-Recognition Technologies in India
-----------------------------------------
-Results for: How Can We Change the System? Understanding and Addressing Redesign Inertia in Digital Public Services
-No results found for: How Can We Change the System? Understanding and Addressing Redesign Inertia in Digital Public Services
-----------------------------------------
-Results for: How Users Who are Blind or Low Vision Play Mobile Games: Perceptions, Challenges, and Strategies
-Title: How Users Who are Blind or Low Vision Play Mobile Games: Perceptions, Challenges, and Strategies
-Link: https://arxiv.org/abs/2502.09866
-----------------------------------------
-Results for: I-Scratch: Independent Slide Creation With Auditory Comment and Haptic Interface for the Blind and Visually Impaired
-No results found for: I-Scratch: Independent Slide Creation With Auditory Comment and Haptic Interface for the Blind and Visually Impaired
-----------------------------------------
-Results for: IncluSim: An Accessible Educational Electronic Circuit Simulator for Blind and Low-Vision Learners
-No results found for: IncluSim: An Accessible Educational Electronic Circuit Simulator for Blind and Low-Vision Learners
-----------------------------------------
-Results for: Investigating the Intersection of Cultural Design Preferences and Web Accessibility Guidelines with Designers from the Global South
-No results found for: Investigating the Intersection of Cultural Design Preferences and Web Accessibility Guidelines with Designers from the Global South
-----------------------------------------
-Results for: Investigating User Perceptions of Epilepsy-Related Seizure Triggers in Mobile Apps: An Analysis of User Reviews
-No results found for: Investigating User Perceptions of Epilepsy-Related Seizure Triggers in Mobile Apps: An Analysis of User Reviews
-----------------------------------------
-Results for: MotionBlocks: Modular Geometric Motion Remapping for More Accessible Upper Body Movement in Virtual Reality
-No results found for: MotionBlocks: Modular Geometric Motion Remapping for More Accessible Upper Body Movement in Virtual Reality
-----------------------------------------
-Results for: Perceptions and Preferences: Deaf ASL-Signing Users' Insights on Video Elements, Styles and Layouts
-No results found for: Perceptions and Preferences: Deaf ASL-Signing Users' Insights on Video Elements, Styles and Layouts
-----------------------------------------
-Results for: Promoting Comprehension and Engagement in Introductory Data and Statistics for Blind and Low-Vision Students: A Co-Design Study
-No results found for: Promoting Comprehension and Engagement in Introductory Data and Statistics for Blind and Low-Vision Students: A Co-Design Study
-----------------------------------------
-Results for: ScreenAudit: Detecting Screen Reader Accessibility Errors in Mobile Apps Using Large Language Models
-No results found for: ScreenAudit: Detecting Screen Reader Accessibility Errors in Mobile Apps Using Large Language Models
-----------------------------------------
-Results for: Shifting the Focus: Exploring Video Accessibility Strategies and Challenges for People with ADHD
-No results found for: Shifting the Focus: Exploring Video Accessibility Strategies and Challenges for People with ADHD
-----------------------------------------
-Results for: Sounds Accessible: Envisioning Accessible Audio Media Futures with People with Aphasia
-No results found for: Sounds Accessible: Envisioning Accessible Audio Media Futures with People with Aphasia
-----------------------------------------
-Results for: SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization
-Title: SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization
-Link: https://arxiv.org/abs/2502.08848
-----------------------------------------
-Results for: TableNarrator: Making Image Tables Accessible to Blind and Low Vision People
-No results found for: TableNarrator: Making Image Tables Accessible to Blind and Low Vision People
-----------------------------------------
-Results for: The Dilemma of Building Do-It-Yourself (DIY) Solutions For Workplace Accessibility
-Title: The Dilemma of Building Do-It-Yourself (DIY) Solutions for Workplace Accessibility
-Link: https://arxiv.org/abs/2501.18148
-----------------------------------------
-Results for: The Impact of Generative AI Coding Assistants on Developers Who Are Visually Impaired
-Title: The Impact of Generative AI Coding Assistants on Developers Who Are Visually Impaired
-Link: https://arxiv.org/abs/2503.16491
-----------------------------------------
-Results for: Toward Language Justice: Exploring Multilingual Captioning for Accessibility
-No results found for: Toward Language Justice: Exploring Multilingual Captioning for Accessibility
-----------------------------------------
-Results for: Towards More Accessible Scientific PDFs for People with Visual Impairments: Step-by-Step PDF Remediation to Improve Tag Accuracy
-Title: Towards More Accessible Scientific PDFs for People with Visual Impairments: Step-by-Step PDF Remediation to Improve Tag Accuracy
-Link: https://arxiv.org/abs/2503.22216
-----------------------------------------
-Results for: Towards Neuroqueer Spatial Justice: A Critical Literature Review of Public Space Technologies for Neurodivergent Populations
-No results found for: Towards Neuroqueer Spatial Justice: A Critical Literature Review of Public Space Technologies for Neurodivergent Populations
-----------------------------------------
-Results for: Understanding Attitudes and Trust of Generative AI Chatbots for Social Anxiety Support
-Title: Understanding Attitudes and Trust of Generative AI Chatbots for Social Anxiety Support
-Link: https://arxiv.org/abs/2501.15628
-----------------------------------------
-Results for: Understanding VR Accessibility Practices of VR Professionals
-No results found for: Understanding VR Accessibility Practices of VR Professionals
-----------------------------------------
-Results for: Cataloging Augmented, Ambivalent Transgender Futures: Designing Inclusive AR Technologies for Trans Communities Through Speculative, Participatory Zine-Making
-No results found for: Cataloging Augmented, Ambivalent Transgender Futures: Designing Inclusive AR Technologies for Trans Communities Through Speculative, Participatory Zine-Making
-----------------------------------------
-Results for: Get Real With Me: Effects of Avatar Realism on Social Presence and Comfort in Augmented Reality Remote Collaboration and Self-Disclosure
-No results found for: Get Real With Me: Effects of Avatar Realism on Social Presence and Comfort in Augmented Reality Remote Collaboration and Self-Disclosure
-----------------------------------------
-Results for: Examining the Effects of Immersive and Non-Immersive Presenter Modalities on Engagement and Social Interaction in Co-located Augmented Presentations
-Title: Examining the Effects of Immersive and Non-Immersive Presenter Modalities on Engagement and Social Interaction in Co-located Augmented Presentations
-Link: https://arxiv.org/abs/2503.13174
-----------------------------------------
 Results for: “I can run at night!": Using Augmented Reality to Support Nighttime Guided Running for Low-vision Runners
 No results found for: “I can run at night!": Using Augmented Reality to Support Nighttime Guided Running for Low-vision Runners
-----------------------------------------
-Results for: VideoA11y: Method and Dataset for Accessible Video Description
-Title: VideoA11y: Method and Dataset for Accessible Video Description
-Link: https://arxiv.org/abs/2502.20480
-----------------------------------------
-Results for: VisiMark: Characterizing and Augmenting Landmarks for People with Low Vision in Augmented Reality to Support Indoor Navigation
-Title: VisiMark: Characterizing and Augmenting Landmarks for People with Low Vision in Augmented Reality to Support Indoor Navigation
-Link: https://arxiv.org/abs/2502.10561
-----------------------------------------
-Results for: Weaving Sound Information to Support Real-Time Sensemaking of Auditory Environments: Co-Designing with a DHH User
-No results found for: Weaving Sound Information to Support Real-Time Sensemaking of Auditory Environments: Co-Designing with a DHH User
-----------------------------------------
-Results for: OnomaCap: Making Non-speech Sound Captions Accessible and Enjoyable through Onomatopoeic Sound Representation
-No results found for: OnomaCap: Making Non-speech Sound Captions Accessible and Enjoyable through Onomatopoeic Sound Representation
-----------------------------------------
-Results for: SPECTRA: Personalizable Sound Recognition for Deaf and Hard of Hearing Users through Interactive Machine Learning
-No results found for: SPECTRA: Personalizable Sound Recognition for Deaf and Hard of Hearing Users through Interactive Machine Learning
-----------------------------------------
-Results for: Autoethnographic Insights from Neurodivergent GAI "Power Users"
-No results found for: Autoethnographic Insights from Neurodivergent GAI "Power Users"
-----------------------------------------
-Results for: "I'd Never Actually Realized How Big An Impact It Had Until Now": Perspectives of University Students with Disabilities on Generative Artificial Intelligence
-No results found for: "I'd Never Actually Realized How Big An Impact It Had Until Now": Perspectives of University Students with Disabilities on Generative Artificial Intelligence
-----------------------------------------
-Results for: "The Internet is Hard. Is Words": Investigating Information Search Difficulties Experienced by People with Aphasia and Strategies for Combatting Them
-No results found for: "The Internet is Hard. Is Words": Investigating Information Search Difficulties Experienced by People with Aphasia and Strategies for Combatting Them
-----------------------------------------
-Results for: Inaccessible and Deceptive: Examining Experiences of Deceptive Design with People Who Use Visual Accessibility Technology
-No results found for: Inaccessible and Deceptive: Examining Experiences of Deceptive Design with People Who Use Visual Accessibility Technology
-----------------------------------------
-Results for: "Is This Seat Accessible for Me?": An Autoethnography of a Person With a Mobility Disability Using Interactive Seat Plans for Public Events
-No results found for: "Is This Seat Accessible for Me?": An Autoethnography of a Person With a Mobility Disability Using Interactive Seat Plans for Public Events
 ----------------------------------------
 Results for: "What Would I Want to Make? Probably Everything": Practices and Speculations of Blind and Low Vision Tactile Graphics Creators
 No results found for: "What Would I Want to Make? Probably Everything": Practices and Speculations of Blind and Low Vision Tactile Graphics Creators
 ----------------------------------------
-Results for: The Sky is the Limit: Understanding How Generative AI can Enhance Screen Reader Users' Experience with Productivity Applications
-No results found for: The Sky is the Limit: Understanding How Generative AI can Enhance Screen Reader Users' Experience with Productivity Applications
+Results for: "Put Your Hands Up": How Joint Attention Is Initiated Between Blind Children And Their Sighted Peers
+No results found for: "Put Your Hands Up": How Joint Attention Is Initiated Between Blind Children And Their Sighted Peers
 ----------------------------------------
-Results for: Light My Way. Developing and Exploring a Multimodal Interface to Assist People With Visual Impairments to Exit Highly Automated Vehicles
-Title: Light My Way: Developing and Exploring a Multimodal Interface to Assist People With Visual Impairments to Exit Highly Automated Vehicles
-Link: https://arxiv.org/abs/2501.11801
+Results for: "It Brought the Model to Life": Exploring the Embodiment of Multimodal I3Ms for People who are Blind or have Low Vision
+Title: "It Brought the Model to Life": Exploring the Embodiment of Multimodal I3Ms for People who are Blind or have Low Vision
+Link: https://arxiv.org/abs/2502.14163
+----------------------------------------
+Results for: "It Brought Me Joy": Opportunities for Spatial Browsing in Desktop Screen Readers
+No results found for: "It Brought Me Joy": Opportunities for Spatial Browsing in Desktop Screen Readers
+----------------------------------------
+Results for: "Is This Seat Accessible for Me?": An Autoethnography of a Person With a Mobility Disability Using Interactive Seat Plans for Public Events
+No results found for: "Is This Seat Accessible for Me?": An Autoethnography of a Person With a Mobility Disability Using Interactive Seat Plans for Public Events
+----------------------------------------
+Results for: "I'd Never Actually Realized How Big An Impact It Had Until Now": Perspectives of University Students with Disabilities on Generative Artificial Intelligence
+No results found for: "I'd Never Actually Realized How Big An Impact It Had Until Now": Perspectives of University Students with Disabilities on Generative Artificial Intelligence
+----------------------------------------
+Results for: 3D Printing for Accessible Education: A Case Study in Assistive Technology Adoption
+No results found for: 3D Printing for Accessible Education: A Case Study in Assistive Technology Adoption
 ----------------------------------------
 Results for: WanderGuide: Indoor Map-less Robotic Guide for Exploration by Blind People
 Title: WanderGuide: Indoor Map-less Robotic Guide for Exploration by Blind People
 Link: https://arxiv.org/abs/2502.08906
 ----------------------------------------
+Results for: Voice by the Non-sighted: Practices and Challenges of Audiobook Voice Actors with Blind and Low Vision in China
+No results found for: Voice by the Non-sighted: Practices and Challenges of Audiobook Voice Actors with Blind and Low Vision in China
+----------------------------------------
+Results for: VisiMark: Characterizing and Augmenting Landmarks for People with Low Vision in Augmented Reality to Support Indoor Navigation
+Title: VisiMark: Characterizing and Augmenting Landmarks for People with Low Vision in Augmented Reality to Support Indoor Navigation
+Link: https://arxiv.org/abs/2502.10561
+----------------------------------------
+Results for: Virtual Worlds Beyond Sight: Designing and Evaluating an Audio-Haptic System for Non-Visual VR Exploration
+No results found for: Virtual Worlds Beyond Sight: Designing and Evaluating an Audio-Haptic System for Non-Visual VR Exploration
+----------------------------------------
+Results for: VideoA11y: Method and Dataset for Accessible Video Description
+Title: VideoA11y: Method and Dataset for Accessible Video Description
+Link: https://arxiv.org/abs/2502.20480
+----------------------------------------
+Results for: Understanding VR Accessibility Practices of VR Professionals
+No results found for: Understanding VR Accessibility Practices of VR Professionals
+----------------------------------------
+Results for: Towards More Accessible Scientific PDFs for People with Visual Impairments: Step-by-Step PDF Remediation to Improve Tag Accuracy
+Title: Towards More Accessible Scientific PDFs for People with Visual Impairments: Step-by-Step PDF Remediation to Improve Tag Accuracy
+Link: https://arxiv.org/abs/2503.22216
+----------------------------------------
+Results for: Toward Language Justice: Exploring Multilingual Captioning for Accessibility
+No results found for: Toward Language Justice: Exploring Multilingual Captioning for Accessibility
+----------------------------------------
+Results for: The Sky is the Limit: Understanding How Generative AI can Enhance Screen Reader Users' Experience with Productivity Applications
+No results found for: The Sky is the Limit: Understanding How Generative AI can Enhance Screen Reader Users' Experience with Productivity Applications
+----------------------------------------
+Results for: The Impact of Generative AI Coding Assistants on Developers Who Are Visually Impaired
+Title: The Impact of Generative AI Coding Assistants on Developers Who Are Visually Impaired
+Link: https://arxiv.org/abs/2503.16491
+----------------------------------------
+Results for: The Dilemma of Building Do-It-Yourself (DIY) Solutions For Workplace Accessibility
+Title: The Dilemma of Building Do-It-Yourself (DIY) Solutions for Workplace Accessibility
+Link: https://arxiv.org/abs/2501.18148
+----------------------------------------
+Results for: Tactile Vega-Lite: Rapidly Prototyping Tactile Charts with Smart Defaults
+Title: Tactile Vega-Lite: Rapidly Prototyping Tactile Charts with Smart Defaults
+Link: https://arxiv.org/abs/2503.00149
+----------------------------------------
+Results for: TableNarrator: Making Image Tables Accessible to Blind and Low Vision People
+No results found for: TableNarrator: Making Image Tables Accessible to Blind and Low Vision People
+----------------------------------------
+Results for: Sensing Movement: Contemporary Dance Workshops with People who are Blind or have Low Vision and Dance Teachers
+Title: Sensing Movement: Contemporary Dance Workshops with People who are Blind or have Low Vision and Dance Teachers
+Link: https://arxiv.org/abs/2503.03166
+----------------------------------------
+Results for: Seeing with the Hands: A Sensory Substitution That Supports Manual Interactions
+No results found for: Seeing with the Hands: A Sensory Substitution That Supports Manual Interactions
+----------------------------------------
+Results for: ScreenAudit: Detecting Screen Reader Accessibility Errors in Mobile Apps Using Large Language Models
+No results found for: ScreenAudit: Detecting Screen Reader Accessibility Errors in Mobile Apps Using Large Language Models
+----------------------------------------
+Results for: Promoting Comprehension and Engagement in Introductory Data and Statistics for Blind and Low-Vision Students: A Co-Design Study
+No results found for: Promoting Comprehension and Engagement in Introductory Data and Statistics for Blind and Low-Vision Students: A Co-Design Study
+----------------------------------------
+Results for: Project TapTap: A Longitudinal Study Exploring Non-Verbal Communication through Vibration Signals Between Teachers and Blind or Low Vision Music Learners
+No results found for: Project TapTap: A Longitudinal Study Exploring Non-Verbal Communication through Vibration Signals Between Teachers and Blind or Low Vision Music Learners
+----------------------------------------
+Results for: M^2Silent: Enabling Multi-user Silent Speech Interactions via Multi-directional Speakers in Shared Spaces
+No results found for: M^2Silent: Enabling Multi-user Silent Speech Interactions via Multi-directional Speakers in Shared Spaces
+----------------------------------------
+Results for: Light My Way. Developing and Exploring a Multimodal Interface to Assist People With Visual Impairments to Exit Highly Automated Vehicles
+Title: Light My Way: Developing and Exploring a Multimodal Interface to Assist People With Visual Impairments to Exit Highly Automated Vehicles
+Link: https://arxiv.org/abs/2501.11801
+----------------------------------------
+Results for: LifeInsight: Design and Evaluation of an AI-Powered Assistive Wearable for Blind and Low Vision People Across Multiple Everyday Life Scenarios
+No results found for: LifeInsight: Design and Evaluation of an AI-Powered Assistive Wearable for Blind and Low Vision People Across Multiple Everyday Life Scenarios
+----------------------------------------
+Results for: IncluSim: An Accessible Educational Electronic Circuit Simulator for Blind and Low-Vision Learners
+No results found for: IncluSim: An Accessible Educational Electronic Circuit Simulator for Blind and Low-Vision Learners
+----------------------------------------
+Results for: Inaccessible and Deceptive: Examining Experiences of Deceptive Design with People Who Use Visual Accessibility Technology
+No results found for: Inaccessible and Deceptive: Examining Experiences of Deceptive Design with People Who Use Visual Accessibility Technology
+----------------------------------------
+Results for: I-Scratch: Independent Slide Creation With Auditory Comment and Haptic Interface for the Blind and Visually Impaired
+No results found for: I-Scratch: Independent Slide Creation With Auditory Comment and Haptic Interface for the Blind and Visually Impaired
+----------------------------------------
+Results for: Human Robot Interaction for Blind and Low Vision People: A Systematic Literature Review
+No results found for: Human Robot Interaction for Blind and Low Vision People: A Systematic Literature Review
+----------------------------------------
+Results for: How Users Who are Blind or Low Vision Play Mobile Games: Perceptions, Challenges, and Strategies
+Title: How Users Who are Blind or Low Vision Play Mobile Games: Perceptions, Challenges, and Strategies
+Link: https://arxiv.org/abs/2502.09866
+----------------------------------------
+Results for: Exploring the Experiences of Individuals Who are Blind or Low-Vision Using Object-Recognition Technologies in India
+No results found for: Exploring the Experiences of Individuals Who are Blind or Low-Vision Using Object-Recognition Technologies in India
+----------------------------------------
+Results for: Everyday Uncertainty: How Blind People Use GenAI Tools for Information Access
+No results found for: Everyday Uncertainty: How Blind People Use GenAI Tools for Information Access
+----------------------------------------
+Results for: Enhancing Tactile Learning: A Co-Designed System for Supporting Speech Interaction with Multi-Part 3D Printed Models by Students who are Blind
+No results found for: Enhancing Tactile Learning: A Co-Designed System for Supporting Speech Interaction with Multi-Part 3D Printed Models by Students who are Blind
+----------------------------------------
+Results for: Designing and Evaluating a VR Boxing Experience with Blind People
+No results found for: Designing and Evaluating a VR Boxing Experience with Blind People
+----------------------------------------
+Results for: DanmuA11y: Making Time-Synced On-Screen Video Comments (Danmu) Accessible to Blind and Low Vision Users via Multi-Viewer Audio Discussions
+Title: DanmuA11y: Making Time-Synced On-Screen Video Comments (Danmu) Accessible to Blind and Low Vision Users via Multi-Viewer Audio Discussions
+Link: https://arxiv.org/abs/2501.15711
+----------------------------------------
+Results for: Conversational Agents on Your Behalf: Opportunities and Challenges of Shared Autonomy in Voice Communication for Multitasking
+No results found for: Conversational Agents on Your Behalf: Opportunities and Challenges of Shared Autonomy in Voice Communication for Multitasking
+----------------------------------------
+Results for: CodeA11y: Making AI Coding Assistants Useful for Accessible Web Development
+Title: CodeA11y: Making AI Coding Assistants Useful for Accessible Web Development
+Link: https://arxiv.org/abs/2502.10884
+----------------------------------------
 Results for: Beyond Visual Perception: Insights from Smartphone Interaction of Visually Impaired Users with Large Multimodal Models
 Title: Beyond Visual Perception: Insights from Smartphone Interaction of Visually Impaired Users with Large Multimodal Models
 Link: https://arxiv.org/abs/2502.16098
 ----------------------------------------
-Results for: Conversational Agents on Your Behalf: Opportunities and Challenges of Shared Autonomy in Voice Communication for Multitasking
-No results found for: Conversational Agents on Your Behalf: Opportunities and Challenges of Shared Autonomy in Voice Communication for Multitasking
+Results for: Beyond Omakase: Designing Shared Control for Navigation Robots with Blind People
+Title: Beyond Omakase: Designing Shared Control for Navigation Robots with Blind People
+Link: https://arxiv.org/abs/2503.21997
+----------------------------------------
+Results for: Asleep at the Virtual Wheel: The Increasing Inaccessibility of Virtual Reality Applications
+No results found for: Asleep at the Virtual Wheel: The Increasing Inaccessibility of Virtual Reality Applications
+----------------------------------------
+Results for: Acceptability, Acceptance and Adoption of Telepresence Robots in Museums: The Museum Professionals' Perspectives
+No results found for: Acceptability, Acceptance and Adoption of Telepresence Robots in Museums: The Museum Professionals' Perspectives
 ----------------------------------------
