@@ -77,7 +77,8 @@ Results for: Seeing with the Hands: A Sensory Substitution That Supports Manual 
 No results found for: Seeing with the Hands: A Sensory Substitution That Supports Manual Interactions
 ----------------------------------------
 Results for: ScreenAudit: Detecting Screen Reader Accessibility Errors in Mobile Apps Using Large Language Models
-No results found for: ScreenAudit: Detecting Screen Reader Accessibility Errors in Mobile Apps Using Large Language Models
+Title: ScreenAudit: Detecting Screen Reader Accessibility Errors in Mobile Apps Using Large Language Models
+Link: https://arxiv.org/abs/2504.02110
 ----------------------------------------
 Results for: Promoting Comprehension and Engagement in Introductory Data and Statistics for Blind and Low-Vision Students: A Co-Design Study
 No results found for: Promoting Comprehension and Engagement in Introductory Data and Statistics for Blind and Low-Vision Students: A Co-Design Study
